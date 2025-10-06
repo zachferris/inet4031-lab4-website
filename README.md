@@ -1,16 +1,19 @@
 # INET4031 - Module 6 - Working with Remote Systems
 
-## Instructions, files, code for Lab 6.
 
-What if you aren't nearby the computer you need to work on?
+This project is a simple webpage that uses HTML and JavaScript to turn a lightbulb image on and off with buttons.  
+It was created to demonstrate how browsers render `.html` files locally and how JavaScript adds interactivity.
 
-Up until this point, our Lab activities have been accomplished by doing them on our laptops.
+## How to Use
+1. Open `index.html` in your web browser.
+2. Click the **ON** or **OFF** buttons to control the lightbulb.
 
-In this activity we explore the concept of "servers."  Which typically aren't located where we are.
+## Files
+- `index.html` – main webpage structure and script
+- `light_on.png` / `light_off.png` – images used for the lightbulb
 
-We have to connect to them remotely
-
-This Lab explores that concept.
+## Author
+Zach Ferris
 
 
 
